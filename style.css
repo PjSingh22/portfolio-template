@@ -64,7 +64,7 @@ sup, .sup {
 }
 
 .background-image {
-  background-position: center center;
+  background-position: center;
   background-size: cover;
 }
 
@@ -106,6 +106,7 @@ header.p-section {
   letter-spacing: .15em;
   text-transform: uppercase;
   padding: .65rem 1.5rem;
+  color: white;
 }
 
 .btn-group-lg>.btn, .btn-lg {
@@ -138,7 +139,7 @@ header.p-section {
 
 .marker-highlight:before {
   content: "";
-  background-color: #0b6efd87;
+  background-color: #0DCAF0;
   width: 102%;
   height: 0.2em;
   position: absolute;
